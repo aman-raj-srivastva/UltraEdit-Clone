@@ -3,6 +3,7 @@ body{
     align-items: center;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 .logo img {
     width: 164px;
