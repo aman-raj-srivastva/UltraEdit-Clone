@@ -1,9 +1,5 @@
 body{
     font-family: segoe ui;
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 .logo img {
     width: 164px;
